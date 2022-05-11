@@ -17,5 +17,5 @@ Execution failed for task ':test'.
 > Run with --info or --debug option to get more log output.
 > Run with --scan to get full insights.
 
-
 ```
+- 롬복 사용시 `Enable annotation processing` 반드시 체크 -> 아닐시 에러남
